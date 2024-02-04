@@ -1,6 +1,8 @@
 # Personal Font Server
 To avoid getting door-slammed by Google Fonts.
 
+[![](https://img.shields.io/badge/View_Repo-gray?logo=github)](https://github.com/debloper/fonts)
+
 ## Context
 Google Fonts sometimes discontinues or deprecates fonts or its variants (e.g. Open Sans Condensed). This makes it problematic to "rely" on it on a long term basis, without risking occasional/prospective breaking of sites. And if it does happen and comes to the site maintainer's attention, it requires manual interventions to either replace the font with a similar substitute or resource it from some other online font distributor (like Adobe Fonts) if they have it available.
 
